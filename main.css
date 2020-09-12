@@ -26,7 +26,7 @@ body {
 }
 
 a.active {
-    color: orange;
+    color: #ffa500;
     font-weight: bold;
 }
 
@@ -43,7 +43,7 @@ a.active {
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    border: solid 3px rgb(48, 48, 163);
+    border: solid 3px #3030a3;
     background-color: #dfdfdf;
     margin: 50px 0 0 20px;
 }
