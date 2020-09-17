@@ -91,3 +91,26 @@ footer>p {
     padding: 0;
     color: #fff;
 }
+
+@media (max-width: 600px) {
+    .navegacao {
+        height: 60px;
+    }
+    .avatar {
+        height: 50px;
+        width: 50px;
+        margin: 3px 0 0 10px;
+    }
+    .navitems {
+        width: 60%;
+    }
+    footer {
+        height: 40px;
+    }
+}
+
+@media (max-width: 400px) {
+    .navitems {
+        width: 70%;
+    }
+}
