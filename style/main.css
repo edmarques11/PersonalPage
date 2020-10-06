@@ -59,11 +59,11 @@ a.active {
     border-radius: 50%;
 }
 
-.conteudo>h1 {
+.cont>h1 {
     text-decoration: underline;
 }
 
-.conteudo>p {
+.cont>p {
     text-align: justify;
 }
 
@@ -73,6 +73,9 @@ a.active {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    /**/
+    border: none;
+    height: 33%;
 }
 
 footer {
